@@ -16,7 +16,7 @@ export const navLinks = [
 ] as const;
 
 export const hero = {
-  headline: "Arquitetura e interiores\ncom design autoral e funcionalidade.",
+  headline: "Arquiteta que AMA sofisticação",
   subheadline:
     "Projetos que refletem a sua personalidade e valorizam cada detalhe do seu espaço.",
   primaryCta: { label: "Conheça meus projetos", href: "#projetos" },
